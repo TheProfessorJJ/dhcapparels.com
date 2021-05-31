@@ -12,13 +12,13 @@
 	<atom:link href="https://www.dhcapparels.com/tag/blank-hats/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.dhcapparels.com</link>
 	<description>An Apparel Sourcing House &#38; Wholesale Supplier</description>
-	<lastBuildDate>Wed, 28 Apr 2021 13:08:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 May 2021 17:12:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>https://www.dhcapparels.com/wp-content/uploads/2021/03/cropped-Site-Icon-32x32.jpg</url>
@@ -306,7 +306,7 @@ SNAPBACK</h2>		</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b169df8 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b169df8" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6fa87aa" data-id="6fa87aa" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6fa87aa" data-id="6fa87aa" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f926a94 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f926a94" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -324,9 +324,9 @@ SNAPBACK</h2>		</div>
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-					<a href="mailto:sales@dhcapparels.com">						<span class="elementor-icon-list-icon">
+					<a href="mailto:jas@dhcaps.com">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text">sales@dhcapparels.com</span>
+										<span class="elementor-icon-list-text">jas@dhcaps.com</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -340,209 +340,7 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a5bc735" data-id="a5bc735" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d6d1b63 elementor-widget elementor-widget-html" data-id="d6d1b63" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<!-- START HERE -->
-					   
-					
-					   
-					  <form class="gform pure-form pure-form-stacked" method="POST"
-					  action="https://script.google.com/macros/s/AKfycbwqn3ukwkJB0Bc7yYV4wvbTLp_h0tZRDRrWMrAyTA/exec">
-						<!-- change the form action to your script url -->
-					
-						<div class="form-elements">
-						  <fieldset class="pure-group">
-							<label for="name">Name: </label>
-							<input id="name" name="name" placeholder="Your name" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-
-						  <fieldset class="pure-group">
-							<label for="email">Email Address:</label>
-							<input id="email" name="email" type="email" value="" required="" placeholder="your.name@email.com" style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;" />
-							<span class="email-invalid" style="display:none">
-							  Must be a valid email address</span>
-						  </fieldset>
-						  
-						   <fieldset class="pure-group">
-							<label for="phone">Phone: </label>
-							<input type="tel" id="phone" name="name" placeholder="Contact Number" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-					
-						  <fieldset class="pure-group">
-							<label for="message">Message: </label>
-							<textarea id="message" name="message" placeholder="Please write your message here" rows="5" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"
-							></textarea>
-						  </fieldset>
-					
-						  
-					
-					
-						  <button>
-							Send</button>
-						</div>
-					
-						<!-- Customise the Thankyou Message People See when they submit the form: -->
-						<div class="thankyou_message" style="display:none;">
-						  <h3>Thanks for contacting me!
-							I will get back to you soon!</h3>
-						</div>
-					
-					  </form>
-
-<script>(function() {
-  function validEmail(email) {
-    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-    return re.test(email);
-  }
-
-  function validateHuman(honeypot) {
-    if (honeypot) {  //if hidden form filled up
-      console.log("Robot Detected!");
-      return true;
-    } else {
-      console.log("Welcome Human!");
-    }
-  }
-
-  // get all data in form and return object
-  function getFormData(form) {
-    var elements = form.elements;
-
-    var fields = Object.keys(elements).filter(function(k) {
-          return (elements[k].name !== "honeypot");
-    }).map(function(k) {
-      if(elements[k].name !== undefined) {
-        return elements[k].name;
-      // special case for Edge's html collection
-      }else if(elements[k].length > 0){
-        return elements[k].item(0).name;
-      }
-    }).filter(function(item, pos, self) {
-      return self.indexOf(item) == pos && item;
-    });
-
-    var formData = {};
-    fields.forEach(function(name){
-      var element = elements[name];
-      
-      // singular form elements just have one value
-      formData[name] = element.value;
-
-      // when our element has multiple items, get their values
-      if (element.length) {
-        var data = [];
-        for (var i = 0; i < element.length; i++) {
-          var item = element.item(i);
-          if (item.checked || item.selected) {
-            data.push(item.value);
-          }
-        }
-        formData[name] = data.join(', ');
-      }
-    });
-
-    // add form-specific values into the data
-    formData.formDataNameOrder = JSON.stringify(fields);
-    formData.formGoogleSheetName = form.dataset.sheet || "responses"; // default sheet name
-    formData.formGoogleSendEmail = form.dataset.email || ""; // no email by default
-
-    console.log(formData);
-    return formData;
-  }
-
-  function handleFormSubmit(event) {  // handles form submit without any jquery
-    event.preventDefault();           // we are submitting via xhr below
-    var form = event.target;
-    var data = getFormData(form);         // get the values submitted in the form
-
-    /* OPTION: Remove this comment to enable SPAM prevention, see README.md
-    if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
-      return false;
-    }
-    */
-
-    if( data.email && !validEmail(data.email) ) {   // if email is not valid show error
-      var invalidEmail = form.querySelector(".email-invalid");
-      if (invalidEmail) {
-        invalidEmail.style.display = "block";
-        return false;
-      }
-    } else {
-      disableAllButtons(form);
-      var url = form.action;
-      var xhr = new XMLHttpRequest();
-      xhr.open('POST', url);
-      // xhr.withCredentials = true;
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-      xhr.onreadystatechange = function() {
-          console.log(xhr.status, xhr.statusText);
-          console.log(xhr.responseText);
-          var formElements = form.querySelector(".form-elements")
-          if (formElements) {
-            formElements.style.display = "none"; // hide form
-          }
-          var thankYouMessage = form.querySelector(".thankyou_message");
-          if (thankYouMessage) {
-            thankYouMessage.style.display = "block";
-          }
-          return;
-      };
-      // url encode form data for sending as post data
-      var encoded = Object.keys(data).map(function(k) {
-          return encodeURIComponent(k) + "=" + encodeURIComponent(data[k]);
-      }).join('&');
-      xhr.send(encoded);
-    }
-  }
-  
-  function loaded() {
-    console.log("Contact form submission handler loaded successfully.");
-    // bind to the submit event of our form
-    var forms = document.querySelectorAll("form.gform");
-    for (var i = 0; i < forms.length; i++) {
-      forms[i].addEventListener("submit", handleFormSubmit, false);
-    }
-  };
-  document.addEventListener("DOMContentLoaded", loaded, false);
-
-  function disableAllButtons(form) {
-    var buttons = form.querySelectorAll("button");
-    for (var i = 0; i < buttons.length; i++) {
-      buttons[i].disabled = true;
-    }
-  }
-})();
-</script>			</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6c60650" data-id="6c60650" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6c60650" data-id="6c60650" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2d16e0a elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2d16e0a" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -625,7 +423,7 @@ SNAPBACK</h2>		</div>
                                 SEND YOUR INQUIRY                            </h3>
                                                                     </div>
                                 
-                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/go/tag/blank-hats/feed/#gf_1'>
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/dhc/tag/blank-hats/feed/#gf_1'>
                         <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield gfield_contains_required field_sublabel_hidden_label field_description_below gfield_visibility_visible' ><label class='gfield_label gfield_label_before_complex'  >Name<span class='gfield_required'>*</span></label><div class='ginput_complex ginput_container no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name' id='input_1_1'>
                             
                             <span id='input_1_1_3_container' class='name_first' >
@@ -975,7 +773,7 @@ SNAPBACK</h2>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-0c9bdfa elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0c9bdfa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3e76f38 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3e76f38" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
 							<div class="elementor-background-overlay"></div>
 						<div class="elementor-shape elementor-shape-top" data-negative="false">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
@@ -984,22 +782,22 @@ SNAPBACK</h2>		</div>
 	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
 </svg>		</div>
 					<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c960b73" data-id="c960b73" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d54e137" data-id="d54e137" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8cdcdf2 elementor-widget elementor-widget-heading" data-id="8cdcdf2" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-576afa1 elementor-widget elementor-widget-heading" data-id="576afa1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Contact us</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Ota yhteyttä</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-1f8c87b elementor-widget elementor-widget-heading" data-id="1f8c87b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-37129ca elementor-widget elementor-widget-heading" data-id="37129ca" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">GET IN TOUCH</h2>		</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-36e09e0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="36e09e0" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e55c55c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e55c55c" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b91069b" data-id="b91069b" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6757d54" data-id="6757d54" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7f6b21b elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7f6b21b" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-6672e99 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6672e99" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1011,13 +809,13 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-ea50030 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ea50030" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-20cc43d elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="20cc43d" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-					<a href="mailto:sales@dhcapparels.com">						<span class="elementor-icon-list-icon">
+					<a href="mailto:jas@dhcaps.com">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text">sales@dhcapparels.com</span>
+										<span class="elementor-icon-list-text">jas@dhcaps.com</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -1031,211 +829,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4a4ad55" data-id="4a4ad55" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6f17335" data-id="6f17335" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d21dcdc elementor-widget elementor-widget-html" data-id="d21dcdc" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<!-- START HERE -->
-					   
-					
-					   
-					  <form class="gform pure-form pure-form-stacked" method="POST"
-					  action="https://script.google.com/macros/s/AKfycbwqn3ukwkJB0Bc7yYV4wvbTLp_h0tZRDRrWMrAyTA/exec">
-						<!-- change the form action to your script url -->
-					
-						<div class="form-elements">
-						  <fieldset class="pure-group">
-							<label for="name">Name: </label>
-							<input id="name" name="name" placeholder="Your name" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-
-						  <fieldset class="pure-group">
-							<label for="email">Email Address:</label>
-							<input id="email" name="email" type="email" value="" required="" placeholder="your.name@email.com" style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;" />
-							<span class="email-invalid" style="display:none">
-							  Must be a valid email address</span>
-						  </fieldset>
-						  
-						   <fieldset class="pure-group">
-							<label for="phone">Phone: </label>
-							<input type="tel" id="phone" name="name" placeholder="Contact Number" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-					
-						  <fieldset class="pure-group">
-							<label for="message">Message: </label>
-							<textarea id="message" name="message" placeholder="Please write your message here" rows="5" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"
-							></textarea>
-						  </fieldset>
-					
-						  
-					
-					
-						  <button>
-							Send</button>
-						</div>
-					
-						<!-- Customise the Thankyou Message People See when they submit the form: -->
-						<div class="thankyou_message" style="display:none;">
-						  <h3>Thanks for contacting me!
-							I will get back to you soon!</h3>
-						</div>
-					
-					  </form>
-
-<script>(function() {
-  function validEmail(email) {
-    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-    return re.test(email);
-  }
-
-  function validateHuman(honeypot) {
-    if (honeypot) {  //if hidden form filled up
-      console.log("Robot Detected!");
-      return true;
-    } else {
-      console.log("Welcome Human!");
-    }
-  }
-
-  // get all data in form and return object
-  function getFormData(form) {
-    var elements = form.elements;
-
-    var fields = Object.keys(elements).filter(function(k) {
-          return (elements[k].name !== "honeypot");
-    }).map(function(k) {
-      if(elements[k].name !== undefined) {
-        return elements[k].name;
-      // special case for Edge's html collection
-      }else if(elements[k].length > 0){
-        return elements[k].item(0).name;
-      }
-    }).filter(function(item, pos, self) {
-      return self.indexOf(item) == pos && item;
-    });
-
-    var formData = {};
-    fields.forEach(function(name){
-      var element = elements[name];
-      
-      // singular form elements just have one value
-      formData[name] = element.value;
-
-      // when our element has multiple items, get their values
-      if (element.length) {
-        var data = [];
-        for (var i = 0; i < element.length; i++) {
-          var item = element.item(i);
-          if (item.checked || item.selected) {
-            data.push(item.value);
-          }
-        }
-        formData[name] = data.join(', ');
-      }
-    });
-
-    // add form-specific values into the data
-    formData.formDataNameOrder = JSON.stringify(fields);
-    formData.formGoogleSheetName = form.dataset.sheet || "responses"; // default sheet name
-    formData.formGoogleSendEmail = form.dataset.email || ""; // no email by default
-
-    console.log(formData);
-    return formData;
-  }
-
-  function handleFormSubmit(event) {  // handles form submit without any jquery
-    event.preventDefault();           // we are submitting via xhr below
-    var form = event.target;
-    var data = getFormData(form);         // get the values submitted in the form
-
-    /* OPTION: Remove this comment to enable SPAM prevention, see README.md
-    if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
-      return false;
-    }
-    */
-
-    if( data.email && !validEmail(data.email) ) {   // if email is not valid show error
-      var invalidEmail = form.querySelector(".email-invalid");
-      if (invalidEmail) {
-        invalidEmail.style.display = "block";
-        return false;
-      }
-    } else {
-      disableAllButtons(form);
-      var url = form.action;
-      var xhr = new XMLHttpRequest();
-      xhr.open('POST', url);
-      // xhr.withCredentials = true;
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-      xhr.onreadystatechange = function() {
-          console.log(xhr.status, xhr.statusText);
-          console.log(xhr.responseText);
-          var formElements = form.querySelector(".form-elements")
-          if (formElements) {
-            formElements.style.display = "none"; // hide form
-          }
-          var thankYouMessage = form.querySelector(".thankyou_message");
-          if (thankYouMessage) {
-            thankYouMessage.style.display = "block";
-          }
-          return;
-      };
-      // url encode form data for sending as post data
-      var encoded = Object.keys(data).map(function(k) {
-          return encodeURIComponent(k) + "=" + encodeURIComponent(data[k]);
-      }).join('&');
-      xhr.send(encoded);
-    }
-  }
-  
-  function loaded() {
-    console.log("Contact form submission handler loaded successfully.");
-    // bind to the submit event of our form
-    var forms = document.querySelectorAll("form.gform");
-    for (var i = 0; i < forms.length; i++) {
-      forms[i].addEventListener("submit", handleFormSubmit, false);
-    }
-  };
-  document.addEventListener("DOMContentLoaded", loaded, false);
-
-  function disableAllButtons(form) {
-    var buttons = form.querySelectorAll("button");
-    for (var i = 0; i < buttons.length; i++) {
-      buttons[i].disabled = true;
-    }
-  }
-})();
-</script>			</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d146721" data-id="d146721" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-038b817 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="038b817" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-80f0f02 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="80f0f02" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1247,7 +843,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-fadd7f7 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="fadd7f7" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-6971afd elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6971afd" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1269,12 +865,12 @@ SNAPBACK</h2>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2b1540b elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b1540b" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fffdfea elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fffdfea" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-eaf2ebe" data-id="eaf2ebe" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-aaa1aee" data-id="aaa1aee" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5af3aaf elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5af3aaf" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-fffff6a elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="fffff6a" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1286,7 +882,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-bb7b6c7 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bb7b6c7" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-e25e222 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e25e222" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1306,9 +902,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-691e34f" data-id="691e34f" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c9b1355" data-id="c9b1355" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6c65868 eael-gravity-form-button-custom elementor-widget elementor-widget-eael-gravity-form" data-id="6c65868" data-element_type="widget" data-widget_type="eael-gravity-form.default">
+								<div class="elementor-element elementor-element-d6ea47f eael-gravity-form-button-custom elementor-widget elementor-widget-eael-gravity-form" data-id="d6ea47f" data-element_type="widget" data-widget_type="eael-gravity-form.default">
 				<div class="elementor-widget-container">
 			            <div class="eael-contact-form eael-gravity-form title-description-hide eael-contact-form-align-left">
                                     <div class="eael-gravity-form-heading">
@@ -1316,7 +912,7 @@ SNAPBACK</h2>		</div>
                                 SEND YOUR INQUIRY                            </h3>
                                                                     </div>
                                 
-                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/go/tag/blank-hats/feed/#gf_1'>
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/dhc/tag/blank-hats/feed/#gf_1'>
                         <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield gfield_contains_required field_sublabel_hidden_label field_description_below gfield_visibility_visible' ><label class='gfield_label gfield_label_before_complex'  >Name<span class='gfield_required'>*</span></label><div class='ginput_complex ginput_container no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name' id='input_1_1'>
                             
                             <span id='input_1_1_3_container' class='name_first' >
@@ -1349,9 +945,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-81f2b03" data-id="81f2b03" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb3eb89" data-id="bb3eb89" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cfbbb88 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="cfbbb88" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-e5f776f elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e5f776f" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1363,7 +959,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-b7963ee elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b7963ee" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-db6dda0 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="db6dda0" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1668,7 +1264,7 @@ SNAPBACK</h2>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-dc60ad5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dc60ad5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7597db9 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7597db9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
 							<div class="elementor-background-overlay"></div>
 						<div class="elementor-shape elementor-shape-top" data-negative="false">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
@@ -1677,22 +1273,22 @@ SNAPBACK</h2>		</div>
 	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
 </svg>		</div>
 					<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f051113" data-id="f051113" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3870d6b" data-id="3870d6b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c21ce4f elementor-widget elementor-widget-heading" data-id="c21ce4f" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-6646909 elementor-widget elementor-widget-heading" data-id="6646909" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Contact Us</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Ota yhteyttä</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-6e1558f elementor-widget elementor-widget-heading" data-id="6e1558f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-0d3ac84 elementor-widget elementor-widget-heading" data-id="0d3ac84" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">GET IN TOUCH</h2>		</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8f0e53a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f0e53a" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-79b7e5b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="79b7e5b" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c4d6c95" data-id="c4d6c95" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8bd5524" data-id="8bd5524" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-03dd3f3 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="03dd3f3" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-4d85980 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4d85980" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1704,13 +1300,13 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-a8b572f elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a8b572f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-2751675 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2751675" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-					<a href="mailto:sales@dhcapparels.com">						<span class="elementor-icon-list-icon">
+					<a href="mailto:jas@dhcaps.com">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text">sales@dhcapparels.com</span>
+										<span class="elementor-icon-list-text">jas@dhcaps.com</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -1724,211 +1320,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c38fdc1" data-id="c38fdc1" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e73ef12" data-id="e73ef12" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-93d4519 elementor-widget elementor-widget-html" data-id="93d4519" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<!-- START HERE -->
-					   
-					
-					   
-					  <form class="gform pure-form pure-form-stacked" method="POST"
-					  action="https://script.google.com/macros/s/AKfycbwqn3ukwkJB0Bc7yYV4wvbTLp_h0tZRDRrWMrAyTA/exec">
-						<!-- change the form action to your script url -->
-					
-						<div class="form-elements">
-						  <fieldset class="pure-group">
-							<label for="name">Name: </label>
-							<input id="name" name="name" placeholder="Your name" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-
-						  <fieldset class="pure-group">
-							<label for="email">Email Address:</label>
-							<input id="email" name="email" type="email" value="" required="" placeholder="your.name@email.com" style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;" />
-							<span class="email-invalid" style="display:none">
-							  Must be a valid email address</span>
-						  </fieldset>
-						  
-						   <fieldset class="pure-group">
-							<label for="phone">Phone: </label>
-							<input type="tel" id="phone" name="name" placeholder="Contact Number" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-					
-						  <fieldset class="pure-group">
-							<label for="message">Message: </label>
-							<textarea id="message" name="message" placeholder="Please write your message here" rows="5" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"
-							></textarea>
-						  </fieldset>
-					
-						  
-					
-					
-						  <button>
-							Send</button>
-						</div>
-					
-						<!-- Customise the Thankyou Message People See when they submit the form: -->
-						<div class="thankyou_message" style="display:none;">
-						  <h3>Thanks for contacting me!
-							I will get back to you soon!</h3>
-						</div>
-					
-					  </form>
-
-<script>(function() {
-  function validEmail(email) {
-    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-    return re.test(email);
-  }
-
-  function validateHuman(honeypot) {
-    if (honeypot) {  //if hidden form filled up
-      console.log("Robot Detected!");
-      return true;
-    } else {
-      console.log("Welcome Human!");
-    }
-  }
-
-  // get all data in form and return object
-  function getFormData(form) {
-    var elements = form.elements;
-
-    var fields = Object.keys(elements).filter(function(k) {
-          return (elements[k].name !== "honeypot");
-    }).map(function(k) {
-      if(elements[k].name !== undefined) {
-        return elements[k].name;
-      // special case for Edge's html collection
-      }else if(elements[k].length > 0){
-        return elements[k].item(0).name;
-      }
-    }).filter(function(item, pos, self) {
-      return self.indexOf(item) == pos && item;
-    });
-
-    var formData = {};
-    fields.forEach(function(name){
-      var element = elements[name];
-      
-      // singular form elements just have one value
-      formData[name] = element.value;
-
-      // when our element has multiple items, get their values
-      if (element.length) {
-        var data = [];
-        for (var i = 0; i < element.length; i++) {
-          var item = element.item(i);
-          if (item.checked || item.selected) {
-            data.push(item.value);
-          }
-        }
-        formData[name] = data.join(', ');
-      }
-    });
-
-    // add form-specific values into the data
-    formData.formDataNameOrder = JSON.stringify(fields);
-    formData.formGoogleSheetName = form.dataset.sheet || "responses"; // default sheet name
-    formData.formGoogleSendEmail = form.dataset.email || ""; // no email by default
-
-    console.log(formData);
-    return formData;
-  }
-
-  function handleFormSubmit(event) {  // handles form submit without any jquery
-    event.preventDefault();           // we are submitting via xhr below
-    var form = event.target;
-    var data = getFormData(form);         // get the values submitted in the form
-
-    /* OPTION: Remove this comment to enable SPAM prevention, see README.md
-    if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
-      return false;
-    }
-    */
-
-    if( data.email && !validEmail(data.email) ) {   // if email is not valid show error
-      var invalidEmail = form.querySelector(".email-invalid");
-      if (invalidEmail) {
-        invalidEmail.style.display = "block";
-        return false;
-      }
-    } else {
-      disableAllButtons(form);
-      var url = form.action;
-      var xhr = new XMLHttpRequest();
-      xhr.open('POST', url);
-      // xhr.withCredentials = true;
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-      xhr.onreadystatechange = function() {
-          console.log(xhr.status, xhr.statusText);
-          console.log(xhr.responseText);
-          var formElements = form.querySelector(".form-elements")
-          if (formElements) {
-            formElements.style.display = "none"; // hide form
-          }
-          var thankYouMessage = form.querySelector(".thankyou_message");
-          if (thankYouMessage) {
-            thankYouMessage.style.display = "block";
-          }
-          return;
-      };
-      // url encode form data for sending as post data
-      var encoded = Object.keys(data).map(function(k) {
-          return encodeURIComponent(k) + "=" + encodeURIComponent(data[k]);
-      }).join('&');
-      xhr.send(encoded);
-    }
-  }
-  
-  function loaded() {
-    console.log("Contact form submission handler loaded successfully.");
-    // bind to the submit event of our form
-    var forms = document.querySelectorAll("form.gform");
-    for (var i = 0; i < forms.length; i++) {
-      forms[i].addEventListener("submit", handleFormSubmit, false);
-    }
-  };
-  document.addEventListener("DOMContentLoaded", loaded, false);
-
-  function disableAllButtons(form) {
-    var buttons = form.querySelectorAll("button");
-    for (var i = 0; i < buttons.length; i++) {
-      buttons[i].disabled = true;
-    }
-  }
-})();
-</script>			</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d763442" data-id="d763442" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8db632e elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8db632e" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-93d60c8 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="93d60c8" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1940,7 +1334,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-ae1cb8d elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ae1cb8d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-13cdc9f elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="13cdc9f" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1962,12 +1356,12 @@ SNAPBACK</h2>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-76f4d30 elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="76f4d30" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-42b9d25 elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="42b9d25" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7974831" data-id="7974831" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-37dc59e" data-id="37dc59e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8f8d5a4 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8f8d5a4" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-4794d80 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4794d80" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1979,7 +1373,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-6c5723b elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6c5723b" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-07b048d elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="07b048d" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -1999,9 +1393,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a2a0dc3" data-id="a2a0dc3" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c9d8125" data-id="c9d8125" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1620bd9 eael-gravity-form-button-custom elementor-widget elementor-widget-eael-gravity-form" data-id="1620bd9" data-element_type="widget" data-widget_type="eael-gravity-form.default">
+								<div class="elementor-element elementor-element-e79e59f eael-gravity-form-button-custom elementor-widget elementor-widget-eael-gravity-form" data-id="e79e59f" data-element_type="widget" data-widget_type="eael-gravity-form.default">
 				<div class="elementor-widget-container">
 			            <div class="eael-contact-form eael-gravity-form title-description-hide eael-contact-form-align-left">
                                     <div class="eael-gravity-form-heading">
@@ -2009,7 +1403,7 @@ SNAPBACK</h2>		</div>
                                 SEND YOUR INQUIRY                            </h3>
                                                                     </div>
                                 
-                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/go/tag/blank-hats/feed/#gf_1'>
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/dhc/tag/blank-hats/feed/#gf_1'>
                         <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield gfield_contains_required field_sublabel_hidden_label field_description_below gfield_visibility_visible' ><label class='gfield_label gfield_label_before_complex'  >Name<span class='gfield_required'>*</span></label><div class='ginput_complex ginput_container no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name' id='input_1_1'>
                             
                             <span id='input_1_1_3_container' class='name_first' >
@@ -2042,9 +1436,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-966ff49" data-id="966ff49" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-431f45c" data-id="431f45c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-72349ba elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="72349ba" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-59ed825 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="59ed825" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2056,7 +1450,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-9232e95 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9232e95" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-ee2262e elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ee2262e" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2403,7 +1797,7 @@ SNAPBACK</h2>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-ac7e490 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ac7e490" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d166fdc elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d166fdc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
 							<div class="elementor-background-overlay"></div>
 						<div class="elementor-shape elementor-shape-top" data-negative="false">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
@@ -2412,22 +1806,22 @@ SNAPBACK</h2>		</div>
 	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
 </svg>		</div>
 					<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f5b16e2" data-id="f5b16e2" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dac89a4" data-id="dac89a4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-942c5c5 elementor-widget elementor-widget-heading" data-id="942c5c5" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-eef679e elementor-widget elementor-widget-heading" data-id="eef679e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Contact Us</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Ota yhteyttä</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-2be1f18 elementor-widget elementor-widget-heading" data-id="2be1f18" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-2c280d2 elementor-widget elementor-widget-heading" data-id="2c280d2" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">GET IN TOUCH</h2>		</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fed3b1e elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fed3b1e" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-aab24cc elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aab24cc" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-118b56a" data-id="118b56a" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14d1f84" data-id="14d1f84" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-f99cd7b elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f99cd7b" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-0a3de28 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="0a3de28" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2439,13 +1833,13 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-9615dd1 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9615dd1" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-be7f93c elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be7f93c" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-					<a href="mailto:sales@dhcapparels.com">						<span class="elementor-icon-list-icon">
+					<a href="mailto:jas@dhcaps.com">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text">sales@dhcapparels.com</span>
+										<span class="elementor-icon-list-text">jas@dhcaps.com</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -2459,211 +1853,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7dd9270" data-id="7dd9270" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ef6f063" data-id="ef6f063" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-57c572a elementor-widget elementor-widget-html" data-id="57c572a" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<!-- START HERE -->
-					   
-					
-					   
-					  <form class="gform pure-form pure-form-stacked" method="POST"
-					  action="https://script.google.com/macros/s/AKfycbwqn3ukwkJB0Bc7yYV4wvbTLp_h0tZRDRrWMrAyTA/exec">
-						<!-- change the form action to your script url -->
-					
-						<div class="form-elements">
-						  <fieldset class="pure-group">
-							<label for="name">Name: </label>
-							<input id="name" name="name" placeholder="Your name" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-
-						  <fieldset class="pure-group">
-							<label for="email">Email Address:</label>
-							<input id="email" name="email" type="email" value="" required="" placeholder="your.name@email.com" style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;" />
-							<span class="email-invalid" style="display:none">
-							  Must be a valid email address</span>
-						  </fieldset>
-						  
-						   <fieldset class="pure-group">
-							<label for="phone">Phone: </label>
-							<input type="tel" id="phone" name="name" placeholder="Contact Number" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"/>
-						  </fieldset>
-					
-						  <fieldset class="pure-group">
-							<label for="message">Message: </label>
-							<textarea id="message" name="message" placeholder="Please write your message here" rows="5" required style="width: 100%;
-							padding: 12px 20px;
-							margin: 8px 0;
-							display: inline-block;
-							border: 1px solid #ccc;
-							border-radius: 4px;
-							box-sizing: border-box;"
-							></textarea>
-						  </fieldset>
-					
-						  
-					
-					
-						  <button>
-							Send</button>
-						</div>
-					
-						<!-- Customise the Thankyou Message People See when they submit the form: -->
-						<div class="thankyou_message" style="display:none;">
-						  <h3>Thanks for contacting me!
-							I will get back to you soon!</h3>
-						</div>
-					
-					  </form>
-
-<script>(function() {
-  function validEmail(email) {
-    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-    return re.test(email);
-  }
-
-  function validateHuman(honeypot) {
-    if (honeypot) {  //if hidden form filled up
-      console.log("Robot Detected!");
-      return true;
-    } else {
-      console.log("Welcome Human!");
-    }
-  }
-
-  // get all data in form and return object
-  function getFormData(form) {
-    var elements = form.elements;
-
-    var fields = Object.keys(elements).filter(function(k) {
-          return (elements[k].name !== "honeypot");
-    }).map(function(k) {
-      if(elements[k].name !== undefined) {
-        return elements[k].name;
-      // special case for Edge's html collection
-      }else if(elements[k].length > 0){
-        return elements[k].item(0).name;
-      }
-    }).filter(function(item, pos, self) {
-      return self.indexOf(item) == pos && item;
-    });
-
-    var formData = {};
-    fields.forEach(function(name){
-      var element = elements[name];
-      
-      // singular form elements just have one value
-      formData[name] = element.value;
-
-      // when our element has multiple items, get their values
-      if (element.length) {
-        var data = [];
-        for (var i = 0; i < element.length; i++) {
-          var item = element.item(i);
-          if (item.checked || item.selected) {
-            data.push(item.value);
-          }
-        }
-        formData[name] = data.join(', ');
-      }
-    });
-
-    // add form-specific values into the data
-    formData.formDataNameOrder = JSON.stringify(fields);
-    formData.formGoogleSheetName = form.dataset.sheet || "responses"; // default sheet name
-    formData.formGoogleSendEmail = form.dataset.email || ""; // no email by default
-
-    console.log(formData);
-    return formData;
-  }
-
-  function handleFormSubmit(event) {  // handles form submit without any jquery
-    event.preventDefault();           // we are submitting via xhr below
-    var form = event.target;
-    var data = getFormData(form);         // get the values submitted in the form
-
-    /* OPTION: Remove this comment to enable SPAM prevention, see README.md
-    if (validateHuman(data.honeypot)) {  //if form is filled, form will not be submitted
-      return false;
-    }
-    */
-
-    if( data.email && !validEmail(data.email) ) {   // if email is not valid show error
-      var invalidEmail = form.querySelector(".email-invalid");
-      if (invalidEmail) {
-        invalidEmail.style.display = "block";
-        return false;
-      }
-    } else {
-      disableAllButtons(form);
-      var url = form.action;
-      var xhr = new XMLHttpRequest();
-      xhr.open('POST', url);
-      // xhr.withCredentials = true;
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-      xhr.onreadystatechange = function() {
-          console.log(xhr.status, xhr.statusText);
-          console.log(xhr.responseText);
-          var formElements = form.querySelector(".form-elements")
-          if (formElements) {
-            formElements.style.display = "none"; // hide form
-          }
-          var thankYouMessage = form.querySelector(".thankyou_message");
-          if (thankYouMessage) {
-            thankYouMessage.style.display = "block";
-          }
-          return;
-      };
-      // url encode form data for sending as post data
-      var encoded = Object.keys(data).map(function(k) {
-          return encodeURIComponent(k) + "=" + encodeURIComponent(data[k]);
-      }).join('&');
-      xhr.send(encoded);
-    }
-  }
-  
-  function loaded() {
-    console.log("Contact form submission handler loaded successfully.");
-    // bind to the submit event of our form
-    var forms = document.querySelectorAll("form.gform");
-    for (var i = 0; i < forms.length; i++) {
-      forms[i].addEventListener("submit", handleFormSubmit, false);
-    }
-  };
-  document.addEventListener("DOMContentLoaded", loaded, false);
-
-  function disableAllButtons(form) {
-    var buttons = form.querySelectorAll("button");
-    for (var i = 0; i < buttons.length; i++) {
-      buttons[i].disabled = true;
-    }
-  }
-})();
-</script>			</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5978aea" data-id="5978aea" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4e1c245 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4e1c245" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-8d2e3ae elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8d2e3ae" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2675,7 +1867,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-5cec499 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5cec499" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-7d63c5f elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7d63c5f" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2697,12 +1889,12 @@ SNAPBACK</h2>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a1d4dee elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a1d4dee" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-772cce2 elementor-section-content-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="772cce2" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-facd489" data-id="facd489" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fa5e791" data-id="fa5e791" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e9c3117 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e9c3117" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-4ef4d98 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4ef4d98" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2714,7 +1906,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-3f0a2cf elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3f0a2cf" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-e8de76c elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e8de76c" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2734,9 +1926,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1bced36" data-id="1bced36" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-de37021" data-id="de37021" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6b83499 eael-gravity-form-button-custom elementor-widget elementor-widget-eael-gravity-form" data-id="6b83499" data-element_type="widget" data-widget_type="eael-gravity-form.default">
+								<div class="elementor-element elementor-element-4fc3a59 eael-gravity-form-button-custom elementor-widget elementor-widget-eael-gravity-form" data-id="4fc3a59" data-element_type="widget" data-widget_type="eael-gravity-form.default">
 				<div class="elementor-widget-container">
 			            <div class="eael-contact-form eael-gravity-form title-description-hide eael-contact-form-align-left">
                                     <div class="eael-gravity-form-heading">
@@ -2744,7 +1936,7 @@ SNAPBACK</h2>		</div>
                                 SEND YOUR INQUIRY                            </h3>
                                                                     </div>
                                 
-                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/go/tag/blank-hats/feed/#gf_1'>
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/dhc/tag/blank-hats/feed/#gf_1'>
                         <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield gfield_contains_required field_sublabel_hidden_label field_description_below gfield_visibility_visible' ><label class='gfield_label gfield_label_before_complex'  >Name<span class='gfield_required'>*</span></label><div class='ginput_complex ginput_container no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name' id='input_1_1'>
                             
                             <span id='input_1_1_3_container' class='name_first' >
@@ -2777,9 +1969,9 @@ SNAPBACK</h2>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7964aa2" data-id="7964aa2" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c43154b" data-id="c43154b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-41177c2 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="41177c2" data-element_type="widget" data-widget_type="icon-list.default">
+								<div class="elementor-element elementor-element-a1adcce elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a1adcce" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
@@ -2791,7 +1983,7 @@ SNAPBACK</h2>		</div>
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-b7739b4 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b7739b4" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-4347852 elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4347852" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
